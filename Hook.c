@@ -1,6 +1,11 @@
 /*
  * Hook.c
  *
+ * Code for Il Matto, waits for input pin B2 to go high
+ * servo sweeps 180 degrees, then on another button
+ * press it sweeps back - for use in locking mechanism
+ * for hook in D4 design project.
+ *
  *  Created on: 4 Mar 2017
  *      Author: brendanelmes
  */
