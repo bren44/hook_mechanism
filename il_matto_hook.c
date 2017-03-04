@@ -1,5 +1,5 @@
 /*
- * Hook.c
+ * il_matto_hook.c
  *
  * Code for Il Matto, waits for input pin B2 to go high
  * servo sweeps 180 degrees, then on another button
