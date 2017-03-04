@@ -45,6 +45,3 @@ void init_pwm(void)			//function which sets up the pwm mode, freq and pins.
 										//set fast PWM with top value = 0xFF (Not OCRA)
 	TCCR0B = _BV(CS02) | _BV(CS00);		//Set Clock select to give prescaler 1024
 }
-
-
-
